@@ -1,0 +1,104 @@
+* {
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+}
+nav {
+    background-color: #B0D9B1;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    font-size: 20px;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+}
+ 
+nav a {
+    color: black;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+    font-weight: bold;
+    margin-left: 40px;
+}
+ 
+nav img {
+    width: 50px;
+}
+
+.info {
+    font-size: 20px;
+}
+
+.infocolumn {
+    text-align: center;
+}
+
+.heading {
+    margin-bottom: 150px;
+}
+
+.table {
+    background-color: #B0D9B1;
+    margin-bottom: 50px;
+}
+
+.pictures {
+    width: 90%;
+    padding: 25px;
+}
+
+footer {
+    background-color: #B0D9B1;
+    padding: 20px;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+}
+ 
+.footer-link {
+    text-decoration: none;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+}
+ 
+.footer-link a {
+    color: black;
+    text-decoration: none;
+    margin: 0 15px;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+    font-weight: bold;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+body{
+    background-color: #79AC78;
+}
+.no {
+    margin-left: 120px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+    font-weight: bold;
+}
+.icon .bi {
+    color: white;
+    font-size: 30px;
+    margin: 0 15px;
+}
+.icon {
+    text-align: center;
+}
+#credit {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+#creditdiv {
+    text-align: center;
+}

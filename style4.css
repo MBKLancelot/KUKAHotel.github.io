@@ -1,0 +1,138 @@
+nav {
+    background-color: #B0D9B1;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    font-size: 20px;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    font-size: 24px;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+    font-weight: bold;
+    margin-left: 40px;
+}
+
+nav img {
+    width: 50px;
+}
+footer {
+    background-color: #B0D9B1;
+    padding: 20px;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+}
+
+.footer-link {
+    text-decoration: none;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+}
+
+.footer-link a {
+    color: black;
+    text-decoration: none;
+    margin: 0 15px;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+    font-weight: bold;
+}
+body{
+    background-color: #79AC78;
+}
+.no {
+    margin-left: 120px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+    font-weight: bold;
+}
+.no {
+    margin-left: 120px;
+    color: black;
+    text-decoration: none;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+    font-weight: bold;
+}
+*{
+    font-family: 'Pixelify Sans', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+}
+.div {
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #B0D9B1;
+    margin: auto;
+    width: 50%;
+    padding: 30px;
+    border-radius: 20px;
+}
+.bullet{
+    text-align: left;
+    margin: auto;
+    width: 63%;
+}
+.id{
+    border: 2px solid #79AC78;
+    border-radius: 30px;
+    padding: 20px;
+}
+.label {
+    font-size: 20px;
+}
+.td {
+    padding: 20px 0;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
+.img{
+    width: 100px;
+    height: 65px;
+}
+.table {
+    width: 100%;
+}
+.buttona {
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+.cl{
+    margin: 10px 80px;
+    background-color: D0E7D2;
+    border-radius: 30px;
+    border: 2px solid #79AC78;
+}
+.b{
+    text-decoration: none;
+}
+footer a {
+    text-decoration: none;
+}
+.icon .bi {
+    color: white;
+    font-size: 30px;
+    margin: 0 15px;
+}
+.icon {
+    text-align: center;
+}
+#credit {
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+#creditdiv {
+    text-align: center;
+}
